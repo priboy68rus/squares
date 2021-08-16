@@ -1,0 +1,7 @@
+canvas {
+  border: 1px solid #eee;
+}
+
+#buttons-container button {
+  margin: 5px;
+}
